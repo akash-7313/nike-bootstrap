@@ -1,0 +1,50 @@
+
+.nav-bg{
+    background-image: linear-gradient(to right, #caaccc, #2a043d);
+    padding: 0 !important;
+}
+.nav-padd li{
+    padding:0 20px
+}
+.nav-padd li a{
+    color: white;
+    font-weight: 600;
+}
+.fas{
+    color: white;
+    font-size: 30px !important;
+}
+
+.mar {
+    padding-top: 150px !important;
+    padding-bottom: 80px;
+}
+.size{
+    font-size: 84px !important;
+    font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+}
+.text-color{
+    color: chocolate;
+}
+.text-color-2{
+    color: #36220a;
+}
+.radious{
+    border-radius: 20px;
+}
+
+.margin{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.img-margin{
+    padding-top: 20px;
+}
+.font{
+    font-size: 50px !important;
+}
+.hero{
+    background-color: #e4dbd3;
+}
